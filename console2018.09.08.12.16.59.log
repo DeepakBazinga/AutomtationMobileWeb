@@ -1,0 +1,8 @@
+INFO    2018-09-08 12:17:19,338 log - PASS :Wait until Element Present located by ://p[contains(text(),'SQ')]
+INFO    2018-09-08 12:17:19,389 log - PASS :Wait until Element Present located by ://a[contains(@class,'ui-link-inherit') and contains(text(),'SQ')]
+INFO    2018-09-08 12:17:19,689 log - PASS :Click Element: //a[contains(@class,'ui-link-inherit') and contains(text(),'SQ')]
+INFO    2018-09-08 12:17:31,535 log - PASS :Wait until Element Present located by ://img[@data-auid='head_image_brandLogo']
+INFO    2018-09-08 12:17:31,596 log - PASS :Verify Element :
+INFO    2018-09-08 12:17:31,692 log - PASS :Wait until Element Present located by ://input[@id='mobileSearchField']
+INFO    2018-09-08 12:17:31,758 log - PASS :Verify Element :
+INFO    2018-09-08 12:17:32,267 log - PASS :quitWebSession()

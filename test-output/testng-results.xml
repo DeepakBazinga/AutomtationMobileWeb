@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63713" started-at="2018-09-08T06:51:36Z" finished-at="2018-09-08T06:52:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63713" started-at="2018-09-08T06:51:36Z" finished-at="2018-09-08T06:52:39Z">
+      <class name="TestCases.AppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.AppTest@5383967b]" name="setup" is-config="true" duration-ms="11244" started-at="2018-09-08T12:21:36Z" finished-at="2018-09-08T12:21:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="runTest()[pri:0, instance:TestCases.AppTest@5383967b]" name="runTest" duration-ms="52210" started-at="2018-09-08T12:21:47Z" finished-at="2018-09-08T12:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.AppTest@5383967b]" name="tearDown" is-config="true" duration-ms="226" started-at="2018-09-08T12:22:39Z" finished-at="2018-09-08T12:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

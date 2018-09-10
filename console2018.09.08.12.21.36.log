@@ -1,0 +1,13 @@
+INFO    2018-09-08 12:21:47,708 log - PASS :Wait until Element Present located by ://p[contains(text(),'SQ')]
+INFO    2018-09-08 12:21:47,776 log - PASS :Wait until Element Present located by ://a[contains(@class,'ui-link-inherit') and contains(text(),'SQ')]
+INFO    2018-09-08 12:21:47,943 log - PASS :Click Element: //a[contains(@class,'ui-link-inherit') and contains(text(),'SQ')]
+INFO    2018-09-08 12:22:28,014 log - PASS :Wait until Element Present located by ://img[@data-auid='head_image_brandLogo']
+INFO    2018-09-08 12:22:28,055 log - PASS :Verify Element :
+INFO    2018-09-08 12:22:28,117 log - PASS :Wait until Element Present located by ://input[@id='mobileSearchField']
+INFO    2018-09-08 12:22:28,158 log - PASS :Verify Element :
+INFO    2018-09-08 12:22:28,473 log - PASS :Clear Element: //input[@id='mobileSearchField'] Send Keys :315515
+INFO    2018-09-08 12:22:28,546 log - PASS :Wait until Element Present located by ://input[@id='searchSubmit']
+INFO    2018-09-08 12:22:28,722 log - PASS :Click Element: //input[@id='searchSubmit']
+INFO    2018-09-08 12:22:39,611 log - PASS :Wait until Element Present located by ://span[@id='skuNumber']
+INFO    2018-09-08 12:22:39,744 log - PASS :Verify Text Exists on:  Text :315515
+INFO    2018-09-08 12:22:39,986 log - PASS :quitWebSession()
